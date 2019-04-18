@@ -14,7 +14,7 @@ class App extends Component {
       {
         id: 2,
         tittle: "Dinner with friend",
-        completed: false
+        completed: true
       },
       {
         id: 3,
